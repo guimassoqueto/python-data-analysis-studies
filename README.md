@@ -1,2 +1,2 @@
-# python_data_analysis
+#  python-data-analysis-studies
 Data analysis in Python using Pandas, Mathplotlib, Pandas, Pytorch, TensorFlow,....
